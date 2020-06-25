@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Law School TA</title>
+    <link>https://www.breaker.audio/law-school-ta</link>
+    <link rel="self" type="application/rss+xml" href="https://www.breaker.audio/feeds/1501253.rss?page=0&amp;per_page=100" />
+    <language>en-us</language>
+    <copyright>&#169; 2020 Kasey Baughan</copyright>
+    <itunes:author>Kasey Baughan</itunes:author>
+    <description>Stanford Law graduate Kasey Baughan takes you through the first year of law school. We will start with a brief overview of the US legal system, and then move to contract law, tort law, criminal law, and the other subjects you&#39;d typically cover in the first year of law school.&lt;br&gt;Join our PodTalk Section 3 group at https://podtalk.app/join_group?u=podtalk://join/group:97</description>
+    <lastBuildDate>Fri, 19 Jun 2020 22:54:47 +0000</lastBuildDate>
+    <generator>Breaker</generator>
+    <itunes:type></itunes:type>
+    <itunes:owner>
+      <itunes:name>Ralph</itunes:name>
+      <itunes:email>qxe5a4davz@privaterelay.appleid.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://api.breaker.audio/shows/1501253/image.jpeg?v=6a55c573e192b8c0ba714b0ada95513d" />
+    <image>
+      <link>https://www.breaker.audio/law-school-ta</link>
+      <title>Law School TA</title>
+      <url>https://api.breaker.audio/shows/1501253/image?v=6a55c573e192b8c0ba714b0ada95513d</url>
+    </image>
+    <itunes:category text="Education" />
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Contracts: Hamer v Sidway</title>
+      <itunes:title>Contracts: Hamer v Sidway</itunes:title>
+      <itunes:episode></itunes:episode>
+      <itunes:season></itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>
+        <![CDATA[<p>Learn about this classic case of an uncle who bribed his son to sober up.</p><p>Court of Appeals of the State of New York 1891</p><p>https://casetext.com/case/hamer-v-sidway</p><p>https://en.wikipedia.org/wiki/Hamer_v._Sidway</p><p>Join our PodTalk Section 3 group at https://podtalk.app/join_group?u=podtalk://join/group:97</p>]]>
+      </description>
+      <enclosure length="33" type="audio/mp3" url="https://api.breaker.audio/shows/1501253/episodes/65950241/enclosure.mp3?v=ea4e97711bd4dab701501dcbdf5b35a1" />
+      <guid isPermaLink="true">https://www.breaker.audio/law-school-ta/e/65950241</guid>
+      <link>https://www.breaker.audio/law-school-ta/e/65950241</link>
+      <comments>https://www.breaker.audio/law-school-ta/e/65950241</comments>
+      <itunes:image href="https://api.breaker.audio/shows/1501253/episodes/65950241/image?v=6a55c573e192b8c0ba714b0ada95513d" />
+      <pubDate>Thu, 18 Jun 2020 19:51:09 +0000</pubDate>
+      <itunes:duration>0</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Intro</title>
+      <itunes:title>Intro</itunes:title>
+      <itunes:episode></itunes:episode>
+      <itunes:season></itunes:season>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <description>
+        <![CDATA[<p>Meet the host and find out what this podcast is all about.</p><p>Join our PodTalk Section 3 group at https://podtalk.app/join_group?u=podtalk://join/group:97</p>]]>
+      </description>
+      <enclosure length="3749429" type="audio/mp3" url="https://api.breaker.audio/shows/1501253/episodes/65950178/enclosure.mp3?v=e398441f45e49be20479bbedca173dd2" />
+      <guid isPermaLink="true">https://www.breaker.audio/law-school-ta/e/65950178</guid>
+      <link>https://www.breaker.audio/law-school-ta/e/65950178</link>
+      <comments>https://www.breaker.audio/law-school-ta/e/65950178</comments>
+      <itunes:image href="https://api.breaker.audio/shows/1501253/episodes/65950178/image?v=6a55c573e192b8c0ba714b0ada95513d" />
+      <pubDate>Thu, 18 Jun 2020 19:50:05 +0000</pubDate>
+      <itunes:duration>156</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
